@@ -1,5 +1,5 @@
 rm( list=ls() ) 
-load( 'deltas.Rdata' )
+load( 'data/deltas.Rdata' )
 source( 'sim_fxn.R')  
 
 N     <- 1e5
@@ -12,7 +12,7 @@ rhoe  <- rhogs
 rhoetype  <- 'rhoe=0'
 rhoe  <- rhogs * diag(nrow(rhogs))
 
-savefile <- paste0( 'Rdata/', rhoetype, '_N=', N, '_S=', S, '.Rdata' )
+savefile <- paste0( 'data/', rhoetype, '_N=', N, '_S=', S, '.Rdata' )
 if( !file.exists(savefile) )
 run_one( N=N, S=S, niter=niter, savefile=savefile,
   r2fgrs = r2fgrs, prevs = prevs, h2s = h2s, rhog = rhogs, rhoe = rhoe )
