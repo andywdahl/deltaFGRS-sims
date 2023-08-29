@@ -1,0 +1,18 @@
+All	Male	Female
+Number	729,412	377,391	352,021
+Birth year, mean (sd)	1980.5 (2.9)	1980.5 (2.9)	1980.5 (2.9)
+Diagnosed with any diagnosis (before 2013), %	19.3	16.8	22.1
+Total number of diagnoses for a diagnosed individual, mean (sd)	8.5 (10.9)	8.4 (11.7)	8.6 (10.1)
+Age at first diagnosis, mean (sd)	26.2 (4.5)	25.7 (4.5)	26.5 (4.4)
+Age at most recent diagnosis, mean (sd)	31.7 (5.4)	31.2 (5.5)	32.1 (5.3)
+Length of follow-up from first diagnosis, years mean (sd)	10.5 (3.6)	10.8 (3.8)	10.3 (3.5)
+MD, %	12.5	8.8	16.4
+AD, %	11.5	8.5	14.7
+AUD, %	3.2	4.3	1.9
+DUD, %	4.7	6.5	2.8
+MD age at onset, mean (sd)	27.9 (4.6)	28.2 (4.6)	27.7 (4.6)
+AD age at onset, mean (sd)	28.5 (4.6)	28.6 (4.5)	28.4 (4.7)
+AUD age at onset, mean (sd)	26.7 (5.2)	26.5 (5.1)	27.4 (5.5)
+DUD age at onset, mean (sd)	24.8 (5.1)	24.5 (4.8)	25.5 (5.8)
+
+
